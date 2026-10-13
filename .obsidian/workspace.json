@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/12. Cloud SQL.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Cloud SQL"
+              "title": "15. Asynchronous communication"
             }
           }
         ]
@@ -190,12 +190,15 @@
   },
   "active": "72f28649f0eb1b6f",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/13. Cloud Spanner.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/14. No SQL.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer Exam - Sample Questions.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/12. Cloud SQL.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/10. Service mesh.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/11. Access control.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Untitled",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/10. Service mesh.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
     "2 Resources/Github actions/Workflow features.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
     "2 Resources/Docker/General.md",
@@ -215,10 +218,7 @@
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Best practices.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/IP addresses.md",
-    "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification",
-    "2 Resources/The Twelve-factor app manifesto.md",
     "2 Resources/Security",
     "2 Resources/Untitled.canvas",
     "1 Attachments/Screenshot 2026-09-01 at 13.59.19.png",
