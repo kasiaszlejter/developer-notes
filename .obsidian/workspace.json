@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/16. Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Asynchronous communication"
+              "title": "16. Operations"
             }
           }
         ]
@@ -190,9 +190,10 @@
   },
   "active": "72f28649f0eb1b6f",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/16. Operations.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/13. Cloud Spanner.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/14. No SQL.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer Exam - Sample Questions.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/12. Cloud SQL.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
@@ -216,7 +217,6 @@
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/6. Load balancing.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Best practices.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification",
     "2 Resources/Security",
