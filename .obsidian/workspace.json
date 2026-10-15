@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/19. Architecture.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/20. Extra stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. Architecture"
+              "title": "20. Extra stuff"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monitoring",
+                "query": "obser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,10 +191,11 @@
   "active": "72f28649f0eb1b6f",
   "lastOpenFiles": [
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/20. Extra stuff.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/19. Architecture.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/1. Key terminology.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/19. Architecture.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer Exam - Sample Questions.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/18. Releases.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/All executed commands.md",
@@ -217,7 +218,6 @@
     "file:/Users/katarzyna.szlejter/Downloads/downloads/commands-executed.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
     "2 Resources/Docker/Basic Docker commands.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/6. IaaS, PaaS and SaaS.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification",
     "2 Resources/Security",
