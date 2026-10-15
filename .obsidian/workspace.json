@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/17. Security.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/19. Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Security"
+              "title": "19. Architecture"
             }
           }
         ]
@@ -188,35 +188,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "6275692a3c9bb9d7",
+  "active": "72f28649f0eb1b6f",
   "lastOpenFiles": [
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/16. Operations.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/1. Key terminology.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/19. Architecture.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer Exam - Sample Questions.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/18. Releases.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/All executed commands.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/17. Security.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/11. Access control.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/8. Google Cloud Run.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/5. Instance groups.md",
+    "1 Attachments/Screenshot 2026-10-15 at 10.01.51.png",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/16. Operations.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/15. Asynchronous communication.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/13. Cloud Spanner.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/14. No SQL.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer Exam - Sample Questions.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/12. Cloud SQL.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/10. Service mesh.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/11. Access control.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Untitled",
     "2 Resources/Github actions/Workflow features.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
     "2 Resources/Docker/General.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/8. Google Cloud Run.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Useful commands.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/All executed commands.md",
     "file:/Users/katarzyna.szlejter/Downloads/downloads/commands-executed.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
     "2 Resources/Docker/Basic Docker commands.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/6. IaaS, PaaS and SaaS.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/7. Google Cloud App Engine.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/1. Key terminology.md",
-    "3 Templates/Note with date.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/5. Instance groups.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/6. Load balancing.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification",
     "2 Resources/Security",
@@ -237,7 +238,6 @@
     "1 Attachments/Screenshot 2026-09-07 at 15.43.48.png",
     "1 Attachments/Screenshot 2026-09-07 at 14.05.53.png",
     "1 Attachments/Screenshot 2026-09-07 at 14.01.18.png",
-    "1 Attachments/Screenshot 2026-09-07 at 13.15.22.png",
     "Kubernetes/Untitled.canvas"
   ]
 }
